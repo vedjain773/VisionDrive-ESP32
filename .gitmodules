@@ -1,0 +1,3 @@
+[submodule "gestureAnalysis/IXWebsocket"]
+	path = gestureAnalysis/IXWebsocket
+	url = https://github.com/machinezone/IXWebSocket.git
